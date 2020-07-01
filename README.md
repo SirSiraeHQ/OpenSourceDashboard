@@ -1,0 +1,2 @@
+# OpenSourceDashboard
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/46b7eb5b025f4a76b075466c680497cc)](https://app.codacy.com/gh/SirSiraeHQ/OpenSourceDashboard?utm_source=github.com&utm_medium=referral&utm_content=SirSiraeHQ/OpenSourceDashboard&utm_campaign=Badge_Grade_Dashboard)

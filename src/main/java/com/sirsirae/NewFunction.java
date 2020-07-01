@@ -9,4 +9,8 @@ public class NewFunction {
 		return 3;
 	}
 
+	public void test2() {
+		//adding more stuff
+	}
+
 }
